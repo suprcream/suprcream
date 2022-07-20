@@ -1,5 +1,5 @@
 # About me
-I always say `maybe` cause I am an unconsistent person you ever met. <br>
+I always say `maybe` cause I am an inconsistent person you ever met. <br>
 I can make discord bot using python, and a game using unity & C# (maybe). <br>
 I always do stream on Twitch. <br>
 also I made some short MV too cause i love editing things. <br>
