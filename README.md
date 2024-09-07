@@ -1,7 +1,7 @@
 # About me
 I always say `maybe` cause I am an inconsistent person you ever met. <br>
 I can make discord bot using python, and a game using unity & C# (maybe). <br>
-Currently learning machine learning rn<br>
+Currently making games rn<br>
 I sometimes do stream on Twitch. <br>
 also I made some short MV too cause i love editing things. <br>
 Please be kind of me. <br>
